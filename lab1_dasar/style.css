@@ -1,0 +1,188 @@
+*{
+    font-family: "Poppins", sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+/* Nav Start */
+.navigation {
+    background-color: black;
+    padding: 20px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navigation .nama{
+    color: white;
+}
+
+.navigation .nama span{
+    color: rgb(176, 122, 4);
+}
+
+.navigation .div-menu{
+    width: 100;
+}
+
+.navigation .div-menu > a{
+    margin-left: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.navigation .div-menu > a:hover{
+    color: rgb(176, 122, 4);
+    transition: 0.3s linear;
+}
+
+.navigation .div-menu .beda{
+    color: rgb(176, 122, 4);
+}
+
+.navigation .div-menu .beda:hover{
+    color: white;
+    transition: 0.3s linear;
+}
+
+/* Nav End */
+
+/* About Me Startt */
+
+.about-me{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+    column-gap: 120px;
+    background-color: rgb(228, 225, 225);
+}
+
+.about-me .about-me-img{
+    width: 20%;
+}
+
+.about-me .div-about-me{
+    /* box-shadow: 2px 2px 2px grey; */
+    box-shadow: 2px 2px 30px 2px grey;
+    padding: 10px;
+}
+
+.about-me .div-about-me h2 span{
+    color: rgb(176, 122, 4);
+}
+
+.about-me .div-about-me p a {
+    text-decoration: none;
+}
+
+.about-me .div-about-me p span{
+    color: rgb(176, 122, 4);
+}
+
+/* About Me End */
+
+/* Paragraf Section Start */
+
+.paragraf-section{
+    padding: 20px 40px;
+    background-color: rgb(228, 225, 225);
+    
+}
+
+.paragraf-section p{
+    box-shadow: 2px 2px 30px 2px grey;
+    padding: 10px;
+}
+
+.paragraf-section h2 span{
+    color: rgb(176, 122, 4);
+}
+
+/* Paragraf Section End */
+
+/* Project Start */
+
+.project{
+    padding: 20px 40px;
+    width: 100%;
+    background-color: rgb(228, 225, 225);
+}
+
+.project > h2 span{
+    color: rgb(176, 122, 4);
+}
+
+.project .kumpulan-card {
+    display: flex;
+    column-gap: 20px;
+}
+
+.project .card {
+    text-align: center;
+    padding: 30px;
+    width: 25%;
+    box-shadow: 2px 2px 30px 2px grey;
+    border-radius: 15px;
+    background-color: white;
+    /* margin-bottom: 5px; */
+}
+
+.project .kumpulan-card .card h3{
+    color: rgb(176, 122, 4);
+}
+
+
+.project .kumpulan-card .card .project-img{
+    width: 100%;
+    border-radius: 10px;
+    background-color: red;
+}
+
+.project .kumpulan-card .card p{
+    font-size: 15px;
+}
+
+.project .kumpulan-card .card a{
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(176, 122, 4);
+    background-color: black;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.project .kumpulan-card .card a:hover{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(176, 122, 4);
+    width: 100%;
+    border-radius: 10px;
+    transition: 0.2s linear;
+}
+
+/* Project End */
+
+/* Foooter Start */
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 40px;
+    background-color: white;
+    box-shadow: 5px 5px black;
+}
+
+.footer img{
+    margin-left: 15px;
+}
+
+/* Foooter End */
