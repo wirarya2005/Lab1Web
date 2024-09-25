@@ -26,7 +26,7 @@ Kelas: TI.23.A2
 | `<u>`: Berfungsi untuk membuat teks memiliki garis bawah |
 
 ## Navigasi
-![navigation-edited-2-pt](https://github.com/user-attachments/assets/220413e9-9cce-49d2-a51a-a35037eabd89)
+![navigation-edited-2-pt](https://github.com/user-attachments/assets/36373ed3-be49-4292-8cd7-56a8b27bd8fb)
 
 #### Penggunaan tag dalam Navigasi di Web saya: 
 - Tag `<nav>` (Panah Biru) sebagai pembungkus untuk semua elemen di dalamnya.
@@ -37,10 +37,10 @@ Kelas: TI.23.A2
 - `class` (Panah Ungu) berfungsi untuk gaya pada website saya (CSS).
 
 #### Hasil Akhir
-![navigation-edited-2](https://github.com/user-attachments/assets/bee7110b-c447-4ef8-ade4-e90791a0284d)
+![hasil-akhir-navigasi](https://github.com/user-attachments/assets/c9ae540a-fcd6-4ab8-9be2-a328cbd827c2)
 
 ## Dasar HTML
-![dasar-html-edited](https://github.com/user-attachments/assets/a9e1ae08-080c-40de-96b8-5b2c8a1d8759)
+![dasar-html-edited](https://github.com/user-attachments/assets/22618d72-1c2b-4f81-882b-a2311045e5b3)
 
 #### Penggunaan tag dalam Section (Dasar HTML) di Web saya: 
 - Tag `<section>` (Panah Merah) sebagai pembungkus semua elemen di dalamnya.
@@ -55,10 +55,10 @@ Kelas: TI.23.A2
 - `class` (Panah Ungu) berfungsi untuk gaya pada website saya (CSS).
 
 #### Hasil Akhir
-![hasil-akhir-dasar](https://github.com/user-attachments/assets/770afba8-bc73-442a-bb76-4c188e31e51e)
+![hasil-akhir-dasar](https://github.com/user-attachments/assets/898876e6-1967-4450-b0fc-b41851e81a16)
 
 ## Paragraf pada HTML
-![paragraf-sec-edited](https://github.com/user-attachments/assets/3af5cc20-6ce4-4d1c-b575-d33a75eceba8)
+![paragraf-sec-edited](https://github.com/user-attachments/assets/a8a3982e-3506-4e36-8fb8-da22f3c1f848)
 
 #### Penggunaan tag dalam Section (Paragraf) di Web saya:
 - Tag `<section>` (Panah Putih) sebagai pembungkus semua elemen di dalamnya.
@@ -69,10 +69,10 @@ Kelas: TI.23.A2
 - Tag `<i>` untuk memiringkan teks atau italic.
 
 #### Hasil Akhir
-![hasil-akhir-paragraf](https://github.com/user-attachments/assets/485f8598-b692-4f89-a2ad-755d9860fca5)
+![hasil-akhir-paragraf](https://github.com/user-attachments/assets/bb9df892-81ae-4b5e-bc8b-81f286075f50)
 
 ## Project
-![project-sec-edited](https://github.com/user-attachments/assets/0af7999b-cdb9-44cd-ae53-19ee5db7433d)
+![project-sec-edited](https://github.com/user-attachments/assets/eb8fc868-36d4-4446-9543-4ab92002c983)
 
 #### Penggunaan tag dalam Section (Project) di Web saya:
 - Tag `<section>` (Panah Putih) sebagai pembungkus semua elemen di dalamnya.
@@ -85,12 +85,16 @@ Kelas: TI.23.A2
 - Tag `<a>` untuk menautkan link.
 
 #### Hasil Akhir
-![hasil-akhir-project](https://github.com/user-attachments/assets/769c5999-6081-4443-838f-4f20583cd7c3)
+![hasil-akhir-project](https://github.com/user-attachments/assets/2c3b3f15-a6e4-41e8-bc63-37bede96d474)
 
 ## Footer
-![footer-edited](https://github.com/user-attachments/assets/e68d88b0-dd70-4935-b7ce-c71cf2a3abe0)
+![footer-edited](https://github.com/user-attachments/assets/6e08a4de-edb9-4178-8288-f398c7f081c6)
 
 #### Penggunaan tag dalam Footer di Web saya:
 - Tag `<footer>` sebagai pembungkus semua elemen di dalamnya.
 - Tag `<a>` untuk menautkan link ke media sosial saya.
 - Tag `<img>` untuk menambahkan gambar.
+
+#### Hasil Akhir
+![hasil-akhir-footer](https://github.com/user-attachments/assets/ee95f4b2-a46e-4051-8141-1ff2207df2a1)
+
