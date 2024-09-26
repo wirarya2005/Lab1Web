@@ -98,3 +98,5 @@ Kelas: TI.23.A2
 #### Hasil Akhir
 ![hasil-akhir-footer](https://github.com/user-attachments/assets/ee95f4b2-a46e-4051-8141-1ff2207df2a1)
 
+## Screenshoot semua hasil akhir:
+
