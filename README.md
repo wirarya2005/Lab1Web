@@ -99,4 +99,6 @@ Kelas: TI.23.A2
 ![hasil-akhir-footer](https://github.com/user-attachments/assets/ee95f4b2-a46e-4051-8141-1ff2207df2a1)
 
 ## Screenshoot semua hasil akhir:
-
+![tampilan-semua-1](https://github.com/user-attachments/assets/7f0afedc-6fa8-4c19-be0a-ab81469d291e)
+![tampilan-semua-2](https://github.com/user-attachments/assets/43d1469a-c277-4144-96b6-edd163af3136)
+![tampilan-semua-3](https://github.com/user-attachments/assets/9eed65b7-8799-4c47-abc5-64e9313d908a)
